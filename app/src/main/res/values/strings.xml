@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Empleados</string>
+    <string name="attention">Atención</string>
+    <string name="back_button">Atras</string>
+    <string name="delete">Borrar</string>
+    <string name="delete_question">Estas seguro de eliminar este empleado?</string>
+    <string name="no_item_description">Chale!\nNo hay empleados en el registro.\nPresiona + para agregar.</string>
+    <string name="edit_item_title">Editar empleado</string>
+    <string name="item">Empleado</string>
+    <string name="item_detail_title">Detalles de empleado</string>
+    <string name="item_entry_title">Añadir empleado</string>
+    <string name="item_id">Nombre(s)*</string>
+    <string name="item_firstname_req">Nombre(s)*</string>
+    <string name="item_lastname_req">Apellido(s)*</string>
+    <string name="item_position_req">Puesto*</string>
+    <string name="item_salary_req">Salario*</string>
+    <string name="item_anios_req">Años de experiencia*</string>
+    <string name="item_identificador">Id</string>
+    <string name="item_primer_nombre">Nombre</string>
+    <string name="item_apellido">Apellido</string>
+    <string name="item_puesto">Puesto</string>
+    <string name="item_anios">Años de experiencia</string>
+    <string name="item_salary">Salario</string>
+    <string name="yearsofexperience"> con %d años de experiencia</string>
+    <string name="no">No</string>
+    <string name="save_action">Guardar</string>
+    <string name="sell">Vender</string>
+    <string name="yes">Si</string>
+    <string name="required_fields">*campos obligatorios</string>
+</resources>
